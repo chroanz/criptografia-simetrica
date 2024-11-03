@@ -12,7 +12,7 @@ function descriptografar($dados, $chave) {
 }
 
 // Chave secreta de criptografia
-$chave = 'sua_chave_secreta';
+$chave = 'tadeu_e_ermin_comendo_pamonha_na_estrada';
 
 // Dados de cliente a serem armazenados
 $dadosCliente = [
